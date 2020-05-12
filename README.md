@@ -3,6 +3,8 @@ Honor_Magicbook-2018 i5-8250u(1820a)Hackintosh_EFI
 
 EFI的大部分文件来自@hjmmc大佬的EFI( https://github.com/hjmmc/Honor-Magicbook )，本EFI仅做opencore.efi与kext升级
 
+现在EFI OC-0.5.8 kext均已更新
+
 | 描述   | 详情                                                  |
 | ------------------- | ------------------------------------------- |
 | 电脑型号      | 华为荣耀 Magicbook      |
