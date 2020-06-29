@@ -1,6 +1,6 @@
 # Honor  .  Magicbook2018  .  Hackintosh
 
-# EFI的大部分文件来自[@hjmmc](https://github.com/hjmmc)大佬的[EFI]( https://github.com/hjmmc/Honor-Magicbook )，本EFI仅做opencore版本与kext升级
+# EFI的大部分文件来自[@hjmmc](https://github.com/hjmmc)大佬的[EFI]( https://github.com/hjmmc/Honor-Magicbook )，本EFI仅做opencore版本与驱动升级
 
 # OC版本-0.5.9 | kext均已更新
 
