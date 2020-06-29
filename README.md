@@ -2,7 +2,7 @@
 
 # EFI的大部分文件来自[@hjmmc](https://github.com/hjmmc)大佬的[EFI]( https://github.com/hjmmc/Honor-Magicbook )，本EFI仅做opencore.efi与kext升级
 
-# OC版本-0.5.8 | kext均已更新
+# OC版本-0.5.9 | kext均已更新
 
 | 描述   | 详情                                                  |
 | ------------------- | ------------------------------------------- |
@@ -13,5 +13,5 @@
 | 显卡 | Intel UHD Graphics 620 2048 MB                     |
 | 声卡         | Realtek ALC256           |
 | 摄像头 | hm1091_techfront |
-| 无线网卡       | DW1820A                        |
+| 无线网卡       | BCM94360CS2                       |
 | 触摸板 | ELAN2203 |
